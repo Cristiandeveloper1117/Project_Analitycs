@@ -1,0 +1,12 @@
+nav {
+  font-family: "open sans";
+  width: 100%;
+  position: fixed;
+  top: 0;
+  transition: top 0.5s;
+  z-index: 10;
+}
+
+.text-section {
+  width: 100%;
+}
